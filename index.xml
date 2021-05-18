@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automatica Mobility</title>
+    <link>https://automaticability.github.io/</link>
+    <description>Recent content on Automatica Mobility</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 May 2021 05:00:00 +0000</lastBuildDate><atom:link href="https://automaticability.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating in Dense Spaces</title>
+      <link>https://automaticability.github.io/posts/navigate-post/</link>
+      <pubDate>Tue, 18 May 2021 05:00:00 +0000</pubDate>
+      
+      <guid>https://automaticability.github.io/posts/navigate-post/</guid>
+      <description>Hello this explains our algo
+Algorithm: xyxyx.
+Algorithm Change: acnamc.</description>
+    </item>
+    
+    <item>
+      <title>Hello Autonomous Navigation Community!</title>
+      <link>https://automaticability.github.io/posts/welcome-post/</link>
+      <pubDate>Mon, 17 May 2021 07:00:00 +0000</pubDate>
+      
+      <guid>https://automaticability.github.io/posts/welcome-post/</guid>
+      <description>Hello world!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://automaticability.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://automaticability.github.io/about/</guid>
+      <description>We are group of researcher passionate about solving the challenges of autonomous navigation in dense spaces.</description>
+    </item>
+    
+    <item>
+      <title>Ajay Krishna</title>
+      <link>https://automaticability.github.io/author/ajay-krishna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://automaticability.github.io/author/ajay-krishna/</guid>
+      <description>Formal modelling and verification of autonomous systems.</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://automaticability.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://automaticability.github.io/contact/</guid>
+      <description>Automatica Mobility 7 Rue Vergniaud
+38000 Grenoble
++33 - 6 68 54 97 68</description>
+    </item>
+    
+    <item>
+      <title>Haroon Rasheed</title>
+      <link>https://automaticability.github.io/author/haroon-rasheed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://automaticability.github.io/author/haroon-rasheed/</guid>
+      <description>Learning the physics of motion.</description>
+    </item>
+    
+    <item>
+      <title>Maria Kabtoul</title>
+      <link>https://automaticability.github.io/author/maria-kabtoul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://automaticability.github.io/author/maria-kabtoul/</guid>
+      <description>Navigation in dense spaces.</description>
+    </item>
+    
+  </channel>
+</rss>
