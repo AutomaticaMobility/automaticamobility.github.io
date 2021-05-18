@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Automatica Mobility</title>
+    <link>https://automaticamobility.github.io/posts/</link>
+    <description>Recent content in Posts on Automatica Mobility</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 May 2021 05:00:00 +0000</lastBuildDate><atom:link href="https://automaticamobility.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating in Dense Spaces</title>
+      <link>https://automaticamobility.github.io/posts/navigate-post/</link>
+      <pubDate>Tue, 18 May 2021 05:00:00 +0000</pubDate>
+      
+      <guid>https://automaticamobility.github.io/posts/navigate-post/</guid>
+      <description>Hello this explains our algo
+Algorithm: xyxyx.
+Algorithm Change: acnamc.</description>
+    </item>
+    
+    <item>
+      <title>Hello Autonomous Navigation Community!</title>
+      <link>https://automaticamobility.github.io/posts/welcome-post/</link>
+      <pubDate>Mon, 17 May 2021 07:00:00 +0000</pubDate>
+      
+      <guid>https://automaticamobility.github.io/posts/welcome-post/</guid>
+      <description>Hello world!</description>
+    </item>
+    
+  </channel>
+</rss>
