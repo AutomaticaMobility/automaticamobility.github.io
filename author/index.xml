@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Automatica Mobility</title>
-    <link>https://automaticability.github.io/author/</link>
+    <link>https://automaticamobility.github.io/author/</link>
     <description>Recent content in Authors on Automatica Mobility</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://automaticability.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://automaticamobility.github.io/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ajay Krishna</title>
-      <link>https://automaticability.github.io/author/ajay-krishna/</link>
+      <link>https://automaticamobility.github.io/author/ajay-krishna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://automaticability.github.io/author/ajay-krishna/</guid>
+      <guid>https://automaticamobility.github.io/author/ajay-krishna/</guid>
       <description>Formal modelling and verification of autonomous systems.</description>
     </item>
     
     <item>
       <title>Haroon Rasheed</title>
-      <link>https://automaticability.github.io/author/haroon-rasheed/</link>
+      <link>https://automaticamobility.github.io/author/haroon-rasheed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://automaticability.github.io/author/haroon-rasheed/</guid>
+      <guid>https://automaticamobility.github.io/author/haroon-rasheed/</guid>
       <description>Learning the physics of motion.</description>
     </item>
     
     <item>
       <title>Maria Kabtoul</title>
-      <link>https://automaticability.github.io/author/maria-kabtoul/</link>
+      <link>https://automaticamobility.github.io/author/maria-kabtoul/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://automaticability.github.io/author/maria-kabtoul/</guid>
+      <guid>https://automaticamobility.github.io/author/maria-kabtoul/</guid>
       <description>Navigation in dense spaces.</description>
     </item>
     
