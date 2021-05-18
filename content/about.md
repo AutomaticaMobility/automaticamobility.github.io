@@ -1,7 +1,7 @@
 ---
 title: "About"
 draft: false
-description : "this is meta description"
+description : "Automatica Mobility: About Us"
 layout: about
 ---
 

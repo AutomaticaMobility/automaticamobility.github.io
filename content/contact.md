@@ -1,7 +1,7 @@
 ---
 title: "Contact Us"
 draft: false
-description : "this is meta description"
+description : "Automatica Mobility: Contact Us"
 image: "images/contact.svg"
 layout : contact
 ---
