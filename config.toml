@@ -97,7 +97,7 @@ expire_days = 2
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 title = "Solutions for autonomous navigation in dense spaces"
-image = "images/banner/illustration.svg"
+image = "images/banner/taxi-ride.svg"
 
 
 ######################## call to action ###############################
