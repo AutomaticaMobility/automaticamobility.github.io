@@ -1,6 +1,6 @@
 +++
 title = "Haroon Rasheed"
-image = "/images/author/haroon-rasheed.jpg"
+image = "/images/author/haroon-rasheed.png"
 description = "Learning the physics of motion"
 +++
 
